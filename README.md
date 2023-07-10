@@ -1,2 +1,2 @@
-# learning-next-js
-Repositório para estudos em Next-JS
+# Learning Next-JS
+### Repositório para estudos em Next-JS
