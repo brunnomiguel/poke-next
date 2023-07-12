@@ -21,12 +21,6 @@ Antes de executar a aplicação localmente, verifique se você possui as seguint
 2. Acesse o diretório do projeto:
 3. Instale as dependências do projeto usando o npm:
 
-/*## Configuração da API*/
-
-/*Esta aplicação utiliza a PokéAPI (https://pokeapi.co/) para obter os dados dos pokemons. Certifique-se de obter uma chave de API válida. Crie um arquivo `.env.local` na raiz do projeto e adicione a seguinte variável de ambiente:*/
-
-/*Substitua `sua-chave-de-api` pela sua chave de API da PokéAPI.*/
-
 ## Executando a aplicação
 
 Após concluir a instalação e configurar a chave da API, você pode iniciar a aplicação localmente. Execute o seguinte comando:
