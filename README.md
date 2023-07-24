@@ -4,7 +4,7 @@ Esta é uma aplicação desenvolvida em Next.js que permite buscar e exibir vár
 
 ## Funcionalidades
 
-- Busca de pokemons por nome ou ID.
+- Busca de pokemons por nome ou ID. (EM DESENVOLVIMENTO)
 - Exibição de informações detalhadas de cada pokemon.
 - Carregamento de cards de pokemons através de requisições à API.
 
@@ -34,5 +34,3 @@ Se você quiser contribuir para este projeto, fique à vontade para abrir um Pul
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
-
-
